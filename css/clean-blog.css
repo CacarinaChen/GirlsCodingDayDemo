@@ -8,6 +8,21 @@ body {
   font-size: 20px;
   color: #333333;
 }
+/* .infogram{
+  width: 100px;
+} */
+/* #contact-heading{
+  color: #0077B5 !important;
+} */
+.container .row #img-centre{
+  display: block;
+  width: 500px;
+  height: 130px;
+  margin: 0 auto;
+}
+#text-centre{
+  text-align: center;
+}
 p {
   line-height: 1.5;
   margin: 30px 0;
@@ -405,3 +420,5 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #0085A1;
 }
+
+
