@@ -17,8 +17,8 @@ body {
 } */
 .container .row #img-centre{
   display: block;
-  width: 500px;
-  height: 130px;
+  /* width: 500px;
+  height: 130px; */
   margin: 0 auto;
 }
 #text-centre{
